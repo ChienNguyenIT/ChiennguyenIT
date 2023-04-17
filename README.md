@@ -21,10 +21,10 @@
 ## Skills:
 <p align="center">
   <img src="https://img.icons8.com/color/256/python--v1.png" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/256/kotlin.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/color/256/tableau-software.png"/>
-  <img src="https://img.icons8.com/external-wanicon-two-tone-wanicon/256/external-sql-server-big-data-wanicon-two-tone-wanicon.png)"/>
+  <img src="https://img.icons8.com/color/256/kotlin.png" alt="opencv" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="opencv" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/256/tableau-software.png" alt="opencv" width="48" height="48"/>
+  <img src="https://img.icons8.com/external-wanicon-two-tone-wanicon/256/external-sql-server-big-data-wanicon-two-tone-wanicon.png" alt="opencv" width="48" height="48"/>
 
 ## Activities:
 
