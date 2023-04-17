@@ -27,7 +27,11 @@
   <img src="https://img.icons8.com/external-wanicon-two-tone-wanicon/256/external-sql-server-big-data-wanicon-two-tone-wanicon.png" alt="opencv" width="48" height="48"/>
 
 ## Activities:
+<table style="width:100%;">
   <tr>
+    <td>
+      <img src="https://codelearn.io/Media/Default/Users/hauvuhdvn/top10pl/Capture.JPG"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -36,3 +40,4 @@
     </td>
   </tr>
 </table>
+
