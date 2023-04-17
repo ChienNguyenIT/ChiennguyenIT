@@ -27,8 +27,6 @@
   <img src="https://img.icons8.com/external-wanicon-two-tone-wanicon/256/external-sql-server-big-data-wanicon-two-tone-wanicon.png" alt="opencv" width="48" height="48"/>
 
 ## Activities:
-
-<table style="width:100%;">
   <tr>
     </td>
     <td>
