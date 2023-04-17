@@ -6,9 +6,6 @@
 </p>
 
 ## 📫 How to reach me:
-
-(https://github.com/ChienNguyenITutm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 <p align="center">
   </a>
   <a href="https://www.facebook.com/hear.lcy" alt="Facebook">
