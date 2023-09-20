@@ -18,15 +18,6 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
-
-## Skills:
-<p align="center">
-  <img src="https://img.icons8.com/clouds/256/python.png" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="opencv" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/256/tableau-software.png" alt="opencv" width="48" height="48"/>
-  <img src="https://https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo.png" alt="opencv" width="48" height="48"/>
-</p>
-
 ## Activities:
 
 <table style="width:100%;">
